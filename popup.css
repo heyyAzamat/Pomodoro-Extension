@@ -1,0 +1,30 @@
+body {
+    width: 200px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+}
+
+#timer {
+    font-size: 32px;
+    margin: 15px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#start {
+    background: #4CAF50;
+    color: white;
+}
+
+#reset {
+    background: #f44336;
+    color: white;
+}
